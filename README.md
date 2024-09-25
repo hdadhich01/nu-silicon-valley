@@ -11,3 +11,7 @@ Here's the steps you need to follow:
 3) Add your name to `README.md`
 4) Commit & Push
 5) Create a PR (requesting to merge into `main`)
+
+Names:
+
+- Harsh Dadhich
