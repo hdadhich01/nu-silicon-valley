@@ -14,4 +14,5 @@ Here's the steps you need to follow:
 
 Names:
 
-- Harsh Dadhich
+- `Harsh Dadhich`
+- `Josafat Jimenez`
